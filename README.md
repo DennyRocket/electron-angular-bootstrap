@@ -1,7 +1,6 @@
 [![Angular Logo](./logo-angular.jpg)](https://angular.io/) [![Electron Logo](./logo-electron.jpg)](https://electron.atom.io/)
 
 [![Travis Build Status][build-badge]][build]
-[![Dependencies Status][dependencyci-badge]][dependencyci]
 [![Make a pull request][prs-badge]][prs]
 [![License](http://img.shields.io/badge/Licence-MIT-brightgreen.svg)](LICENSE.md)
 
@@ -10,6 +9,8 @@
 [![Tweet][twitter-badge]][twitter]
 
 # Introduction
+
+Based on https://github.com/maximegris/angular-electron. Updated angular versions, added bootstrap for personal learning project, to have an easy starter package.
 
 Bootstrap and package your project with Angular 6(+) and Electron (Typescript + SASS + Hot Reload) for creating Desktop applications.
 
@@ -30,7 +31,7 @@ With this sample, you can :
 Clone this repository locally :
 
 ``` bash
-git clone https://github.com/maximegris/angular-electron.git
+git clone https://github.com/DennyRocket/electron-angular-bootstrap
 ```
 
 Install dependencies with npm :
